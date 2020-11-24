@@ -49,6 +49,12 @@ symbolic_input_source! {
     DisplayPort2: 0x10
     Hdmi1: 0x11
     Hdmi2: 0x12
+    HdmiA: 0x01
+    HdmiB: 0x02
+    HdmiC: 0x03
+    HdmiD: 0x04
+    HdmiE: 0x05
+    HdmiF: 0x06
 }
 
 #[derive(Clone, Copy)]
